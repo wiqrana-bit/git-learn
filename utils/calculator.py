@@ -13,11 +13,11 @@ Number = Union[int, float]
 
 _OPERATORS = {
 	ast.Add: operator.add,
-	ast.Sub: operator.sub,
-	ast.Mult: operator.mul,
-	ast.Div: operator.truediv,
-	ast.Pow: operator.pow,
-	ast.Mod: operator.mod,
+	#ast.Sub: operator.sub,
+	#ast.Mult: operator.mul,
+	#ast.Div: operator.truediv,
+	#ast.Pow: operator.pow,
+	#ast.Mod: operator.mod,
 }
 
 
