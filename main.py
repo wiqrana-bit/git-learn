@@ -21,4 +21,3 @@ if __name__ == "__main__":
 #Adding comments to main.py
 # This is the main entry point of the application
 # It prompts the user for two numbers, performs addition using the add function from the calculator module
-#added comments to main.py
