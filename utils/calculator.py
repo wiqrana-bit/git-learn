@@ -1,3 +1,5 @@
+
+# added format comment to the end of the file to test formatting tools
 """Basic calculator utilities.
 
 Provides simple arithmetic functions, a small `Calculator` class,
@@ -130,3 +132,4 @@ if __name__ == "__main__":
 	else:
 		print(result)
 
+# added format comment to the end of the file to test formatting tools
